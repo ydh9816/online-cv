@@ -57,8 +57,8 @@ education:
 #      sociis natoque penatibus et magnis dis parturient montes, nascetur
 #      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
 #      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+#        - Bullet point
+#        - Bullet point
 
 experiences:
   title: Experiences
@@ -67,18 +67,18 @@ experiences:
     time: 2022 - 2024
     company: LX Semicon, Seoul / DaeJeon
     details: |
-        - Micro LED Technology Analysis
-        - Digital IP Design for MCU Project
+    Micro LED Technology Analysis
+    Digital IP Design for MCU Project
   - role: Hardware Engineer
     time: 2021
     company: Vieworks, AnYang
     details: |
-    - Panel analysis, PCB circuit verification, product (X-Ray Detector) testing
+    Panel analysis, PCB circuit verification, product (X-Ray Detector) testing
   - role: Embedded Software Engineer
     time: 2020.9 - 2020.12
     company: Geo-Line, Seoul
     details: |
-    - Development of embedded software for electric vehicle chargers
+    Development of embedded software for electric vehicle chargers
 
 #certifications:
 #  title: Certifications
