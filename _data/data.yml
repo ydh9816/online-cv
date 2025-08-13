@@ -33,44 +33,24 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: CrossFit
       link:
-
 
     - item: Snowboarding
       link:
 
 
-    - item: Cooking
-      link:
-
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Graduated from Pohang Jecheol High School in 2015 and Hanyang University in 2021. After four years of professional experience, I enrolled in a graduate program at Postech. My undergraduate major was Biomedical Engineering, with a minor in Electronic Engineering. I will be joining the CAD & SoC Design Lab at Postech starting in September 2025. My main areas of interest are Deep Learning Hardware, FPGA Implementation, and Model Compression.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: BS in Biomedical Engineering
+    university: Hanyang University
+    time: 2015 - 2021
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
